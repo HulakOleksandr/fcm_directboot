@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "980539888145",
+    "firebase_url": "https://twitch-drops.firebaseio.com",
+    "project_id": "twitch-drops",
+    "storage_bucket": "twitch-drops.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980539888145:android:edcd2d1a721f9b678a17b0",
+        "android_client_info": {
+          "package_name": "com.hulak.twitchdrops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980539888145-jobk45d455isu24pk7lv5tcv5qr65ouh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTqFTlAI_TSnq1V7H2frym2D091YBTBJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980539888145-jobk45d455isu24pk7lv5tcv5qr65ouh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
